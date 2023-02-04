@@ -23,4 +23,4 @@ return mem[n];
 
 let fib_of_mem=fib(100,memo);
 
-console.log(fib_of_mem);
+// console.log(fib_of_mem);
